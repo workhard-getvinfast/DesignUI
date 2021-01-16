@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DesignLoginUi</string>
+    <string name="title">famous</string>
+    <string name="email">Email</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="question">No account yet?</string>
+    <string name="suggestion"><a href="https://www.google.com/">Create one</a></string>
+    <string name="emailHint">Enter your email</string>
+    <string name="passwordHint">Enter your password</string>
 </resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTextSize">60sp</dimen>
+    <dimen name="suggestionTextSize">16sp</dimen>
+    <dimen name="suggestionMarginTop">20dp</dimen>
+    <dimen name="verticalLayout">0dp</dimen>
+    <dimen name="mainLayoutHeight">400dp</dimen>
+    <dimen name="layoutPadding">40dp</dimen>
+    <dimen name="inputTextSize">18sp</dimen>
+    <dimen name="iconInputPading">10dp</dimen>
+</resources>
